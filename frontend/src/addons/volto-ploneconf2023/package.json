@@ -55,7 +55,7 @@
         "@eeacms/volto-accordion-block": "*",
         "@eeacms/volto-matomo": "*",
         "@kitconcept/volto-slider-block": "*",
-        "@plonegovbr/volto-code-block": "*",
-        "@plone-collective/volto-authomatic": "*"
+        "@plone-collective/volto-authomatic": "*",
+        "@plonegovbr/volto-code-block": "*"
     }
 }
